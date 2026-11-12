@@ -53,7 +53,8 @@ shot look generated. The templates below always spell out:
 
 The templates are model-agnostic: the structure (subject → framing → light → motion → texture)
 is what carries over. They were written and tested against [Wan 3.0](https://wan-3.io/), which
-takes the same five-part description in text-to-video and image-to-video mode.
+takes the same five-part description in text-to-video and image-to-video mode. The same templates
+work in [Pavo AI](https://pavoai.app/), where the cast is defined once and reused across shots.
 
 ## Licence
 
